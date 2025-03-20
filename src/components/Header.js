@@ -34,14 +34,14 @@
                   Projects
                 </NavLink>
               </li>
-              <li>
+              {/* <li>
                 <NavLink 
                   to='/notFound' 
                   className={({ isActive }) => isActive ? 'text-orange-500' : 'hover:text-orange-400'}
                 >
                   Surprise
                 </NavLink>
-              </li>
+              </li> */}
               <li>
                 <NavLink 
                   to='/contact' 
